@@ -1,3 +1,6 @@
+
+
+
 body {
   overflow-x: hidden;
   font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -30,7 +33,7 @@ h6 {
 }
 
 section {
-  padding: 100px 0;
+  padding-top: 50px;
 }
 
 section h2.section-heading {
@@ -50,7 +53,7 @@ section h3.section-subheading {
 
 @media (min-width: 768px) {
   section {
-    padding: 150px 0;
+    padding: 50px 0;
   }
 }
 
@@ -200,8 +203,8 @@ header.masthead .intro-text .intro-heading {
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
-    padding-top: 300px;
-    padding-bottom: 200px;
+    padding-top: 50x;
+    padding-bottom: 50px;
   }
   header.masthead .intro-text .intro-lead-in {
     font-size: 40px;
@@ -312,7 +315,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 .portfolio-modal .modal-content {
-  padding: 100px 0;
+  padding: 50px 0;
   text-align: center;
 }
 
