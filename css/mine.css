@@ -1,0 +1,6 @@
+@media (max-width: 750px)  {
+    .img-contact{ max-width: 25% !important;
+    height: auto;
+    display: inline !important;
+    }
+}
